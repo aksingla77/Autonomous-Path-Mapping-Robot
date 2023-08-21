@@ -1,1 +1,0 @@
-from pixelate_arena.envs.pix_arena import PixelateArena
